@@ -1,7 +1,7 @@
 
 # 🧠 Trabalho Final - Machine Learning (MBA FIAP)
 
-Este repositório contém o trabalho final da disciplina de Machine Learning do MBA em Ciência de Dados da FIAP, realizado pelo time da Quantum Finance.
+Este repositório contém o trabalho final da disciplina de Machine Learning do MBA em Ciência de Dados e Inteligência Artificial da FIAP.
 
 ## 👥 Integrantes
 
